@@ -16,7 +16,6 @@ This project showcases different UI implementations in a 3D environment. It incl
 You can explore the following scenes to see the different UI setups:
 
 *   `Assets/CreativeCore_UI/Scenes/TutorialScene_UI_Outdoor.unity`: A scene to demonstrate the basics.
-*   `Assets/CreativeCore_UI/Scenes/FinalScene_UI_Outdoor.unity`: A more complete scene showcasing the final UI.
 *   `Assets/CreativeCore_UI/Scenes/UI_Worldspace.unity`: A scene focused on world space UI elements.
 
 ## How to Use
